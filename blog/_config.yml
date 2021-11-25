@@ -64,6 +64,6 @@ deploy:
   type: git
   repo: git@github.com:ohmygod930708/ohmygod930708.github.io.git
   branch: master
-google_analytics: G-TKS04XTXJE
+google_analytics: UA-213351282-1
 sitemap:
   path: sitemap.xml
