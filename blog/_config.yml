@@ -5,7 +5,7 @@ keywords: null
 author: ohmygod0193
 language: en
 timezone: ''
-url: https://ohmygod930708.github.io/
+url: https://Parzival-ohmygod0193.github.io/
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
@@ -62,7 +62,7 @@ ignore: null
 theme: next
 deploy:
   type: git
-  repo: git@github.com:ohmygod930708/ohmygod930708.github.io.git
+  repo: git@github.com:Parzival-ohmygod0193/Parzival-ohmygod0193.github.io.git
   branch: master
 google_analytics: UA-213351282-1
 sitemap:
